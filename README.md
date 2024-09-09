@@ -1,8 +1,2 @@
-<html>
-    <h1>Novice Repos</h1>
-    <ul>
-        <li><a href="https://github.com/corydelo/PCDE-Activity-9.1.git">PCDE-Activity-9.1</a></li>
-        <li><a href="https://github.com/corydelo/GitHubMiniLesson.git">GitHubMiniLesson</a></li>
-        <li><a href="https://github.com/corydelo/Spoon-Knife.git">Spoon-Knife</a></li>
-    </ul>
-</html>
+# Novice Porfolio
+Testing Git
